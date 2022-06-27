@@ -37,3 +37,7 @@ So if you are still not convinced here is a same scenario with 100 doors.Let’s
 Do you still think, given this scenario that you have only a 50% chance of winning by switching or not switching since there are two unrevealed doors left ? Do you think it would be better for you to switch or stay with your original choice ?
 
 By switching your choice you are given an extra 98% chance of getting the prize (meaning by switching you will have a 99% chance of getting the prize) , and your first choice still has only a 1% chance of being right.
+
+
+
+Here is the Article Pubished in the Medium - [Monty Hall](https://medium.com/analytics-vidhya/monty-hall-problem-with-python-simulation-4af54fc14737#11cc-d4546e3a865b)
